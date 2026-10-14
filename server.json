@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.QueryAction/queryaction",
+  "name": "com.queryaction/queryaction",
   "title": "QueryAction",
   "description": "Site growth from your agent: GA4, Search Console, PageSpeed, SEO research and weekly reports.",
   "version": "1.0.0",
